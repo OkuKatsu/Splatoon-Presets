@@ -1,0 +1,1 @@
+~Lv2~{"Name":"M6S D3 爽贪水圈点","Group":"AAC Cruiserweight M2 Savage","ZoneLockH":[1259],"ElementsL":[{"Name":"","type":1,"offX":-9.0,"offY":-4.5,"radius":1.0,"fillIntensity":0.648,"thicc":1.0,"refActorModelID":4467,"refActorComparisonType":1,"LimitDistance":true,"DistanceSourceX":90.0,"DistanceSourceY":95.0,"DistanceMax":10.0}]}
